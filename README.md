@@ -5,7 +5,7 @@ of stable form financial products i.e. products that product fixed or consistent
 
 The testnet deployment of the Delgado marketplace can be found here 
 
-**Rinkeby Deployment :- ** 0x2a7B2ab0246Cea83f1c92Cbb9A7f7f36D12bdFEe
+**Rinkeby Deployment :-** 0x2a7B2ab0246Cea83f1c92Cbb9A7f7f36D12bdFEe
 
 THe user interface deployment of the Delgado marketplace can be found here
 

@@ -9,7 +9,7 @@ The testnet deployment of the Delgado marketplace can be found here
 
 **Rinkeby Deployment :-** 0x2a7B2ab0246Cea83f1c92Cbb9A7f7f36D12bdFEe
 
-THe user interface deployment of the Delgado marketplace can be found here
+The user interface deployment of the Delgado marketplace can be found here.
 
 **UI :-** https://ng0gk0kmmfnrpn0enbf3m09vgt3trq3e0r1u8t3ecch2rs67m0kqo9g.siasky.net/
 

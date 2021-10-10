@@ -1,0 +1,9 @@
+
+*.class
+engines/.classpath
+*.prefs
+engines/.project
+engines/target/classes/DelgadoMarket.sol
+engines/target/classes/META-INF/MANIFEST.MF
+engines/target/classes/META-INF/maven/delgado/product-engine/pom.properties
+engines/target/classes/META-INF/maven/delgado/product-engine/pom.xml

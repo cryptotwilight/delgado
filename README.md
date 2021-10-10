@@ -13,4 +13,4 @@ THe user interface deployment of the Delgado marketplace can be found here
 
 **UI :-** https://ng0gk0kmmfnrpn0enbf3m09vgt3trq3e0r1u8t3ecch2rs67m0kqo9g.siasky.net/
 
-**Video :- ** https://youtu.be/CGKR_DLDZC4
+**Video :-** https://youtu.be/CGKR_DLDZC4
